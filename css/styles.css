@@ -1,0 +1,44 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: bisque;
+  font-weight: 600;
+}
+.navbar-nav > li{
+  padding-left:5px;
+  padding-right:0px;
+}
+
+.catg1 {
+  z-index: 10;
+}
+.catg2 {
+  z-index: 5; 
+}
+
+.cardcolor {
+  background-color: antiquewhite;
+}
+
+.display-5 {
+  font-family: 'Goldman', cursive;
+  color: rgb(2, 39, 70);
+}
+.call {
+  font-size: 200%;
+  font-weight: 800;
+}
+.call .btn {
+  font-size: 100%;
+  font-weight: 600;
+}
+.logo > * {
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 3px;
+}
+/* .info > div > * {
+  padding: px;
+} */
+.payment-security img {
+  width: 80px;
+}
